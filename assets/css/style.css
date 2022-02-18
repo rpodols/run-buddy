@@ -127,6 +127,11 @@ section {
     font-size: 16px;
 }
 
+.hero-text {
+    color: #fce138;
+
+}
+
 .intro {
     text-align: center;
 }
